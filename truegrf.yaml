@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f13b796c
 license: CC0-1.0
+name: trgf
 type: industry
+url: https://github.com/conuti-das/trgf
 version: 6
